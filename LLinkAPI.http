@@ -1,0 +1,6 @@
+@LLinkAPI_HostAddress = http://localhost:5124
+
+GET {{LLinkAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
